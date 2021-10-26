@@ -1,2 +1,6 @@
 # notes
 init
+  
+  dsa
+  
+  dasda
